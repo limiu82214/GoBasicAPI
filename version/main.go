@@ -1,4 +1,5 @@
 // Package 最基礎的版本，監聽80port並回傳一段文字
+// localhost/hi
 package main
 
 import (
