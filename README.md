@@ -19,5 +19,5 @@ Go的基礎API Web Server
 在Web中測試: http://localhost/?job=business&method=one  
 
 ### version4
-在這個版本中不再透過job和method的方式，改由路徑直接對應函式
+在這個版本中不再透過job和method的方式，改由路徑直接對應函式  
 在Web中測試: http://localhost/?job=business&method=one  
