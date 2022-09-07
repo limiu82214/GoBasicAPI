@@ -14,6 +14,10 @@ Go的基礎API Web Server
 在這個版本中以GET的方式接收job和method方法來執行不同的API  
 在Web中測試: http://localhost/?job=business&method=one  
 
+### version3
+在這個版本中每個API不局限在main.go裡面，可以歸類於不同的資料夾中  
+在Web中測試: http://localhost/?job=business&method=one  
+
 ## 接收參數
 
 ### GET
