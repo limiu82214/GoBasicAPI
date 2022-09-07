@@ -18,6 +18,10 @@ Go的基礎API Web Server
 在這個版本中每個API不局限在main.go裡面，可以歸類於不同的資料夾中  
 在Web中測試: http://localhost/?job=business&method=one  
 
+### version4
+在這個版本中不再透過job和method的方式，改由路徑直接對應函式
+在Web中測試: http://localhost/?job=business&method=one  
+
 ## 接收參數
 
 ### GET
